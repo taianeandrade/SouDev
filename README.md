@@ -1,2 +1,2 @@
 # SouDev
-Aulas 
+Repositório de aulas/projetos do Sou Dev
