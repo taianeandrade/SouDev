@@ -1,2 +1,2 @@
 # SouDev
-Repositório de aulas/projetos do Sou Dev
+Repositório de aulas do curso de fullstack
