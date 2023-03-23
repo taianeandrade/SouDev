@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.tabela {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dedede;
+
+}
+.tabela table{
+    background-color: #ffff;
+    padding: 16px;
+    border-radius: 5px;
+    border-collapse: collapse;
+}
+.tabela table thead{
+    background-color: black;
+    color: #ffff;
+}
+   .tabela table tbody{
+    padding: 0;
+    line-height: 40px;
+    outline: 1px solid #eeee;
+    outline-offset: 1px;
+   } 
