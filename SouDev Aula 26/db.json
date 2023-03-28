@@ -1,0 +1,88 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulos": "Calças",
+      "descricao": "Calças jeans"
+    },
+    {
+      "id": 2,
+      "titulos": "Botas",
+      "descricao": "Botas de couro"
+    },
+    {
+      "id": 4,
+      "titulos": "Calças",
+      "descricao": "Calças de alfataria"
+    },
+    {
+      "titulo": "Bonés",
+      "descricao": "Bonés em geral",
+      "id": 5
+    },
+    {
+      "titulo": "Mouses",
+      "descricao": "Perifericos em geral",
+      "id": 6
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "categoria_id": 2,
+      "tamanho": "41",
+      "codigo": "10982-4",
+      "cor": "preta",
+      "marca": "TheRua",
+      "descricao": "Bota",
+      "valor": "59.90",
+      "titulo": "",
+      "quantidade": 10,
+      "imagens": [
+        "imagem01.jpg",
+        "imagem02.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "categoria_id": 1,
+      "tamanho": "36",
+      "codigo": "12984-1",
+      "cor": "marrom",
+      "marca": "West",
+      "descricao": "",
+      "valor": "259.90",
+      "titulo": "",
+      "quantidade": 8,
+      "imagens": [
+        "imagem03.jpg",
+        "imagem04.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "categoria_id": 3,
+      "tamanho": "m",
+      "codigo": "13673-4",
+      "cor": "branca",
+      "marca": "handara",
+      "descricao": "",
+      "valor": "104.90",
+      "titulo": "",
+      "quantidade": 22,
+      "imagens": [
+        "imagem38.jpg",
+        "imagem39.jpg"
+      ]
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Taiane",
+      "idade": 22,
+      "endereco": "Rua Manaus",
+      "cpf": "12345678910"
+    }
+  ]
+}
