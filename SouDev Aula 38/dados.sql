@@ -26,5 +26,3 @@ coluna1= 'valor1';
 
 -- Para excluir dados de uma tabela --
 DELETE FROM tb_curso;
-
-

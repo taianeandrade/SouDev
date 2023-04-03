@@ -12,6 +12,3 @@ INSERT INTO tb_curso
     (nome, carga_horaria, descricao)
 VALUES
     ('Frontend', '100', 'Curso de desenvolvimento web');
-
-
-

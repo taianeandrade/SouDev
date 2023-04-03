@@ -20,9 +20,3 @@ RENAME COLUMN cartao_versao TO cartao_acesso_versao;
 SELECT tb_aluno.id, tb_aluno.nome, tb_aluno.curso_id, tb_curso.nome
 FROM tb_aluno
 INNER JOIN tb_curso ON tb_aluno.curso_id = tb_curso.id;
-
-
-
-
-
-
